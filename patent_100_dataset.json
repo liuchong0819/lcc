@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, installing bottom wall panels, hoisting roof slab. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of high-strength concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C20, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, installing bottom wall panels, hoisting roof slab. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, hoisting roof slab, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the anchoring element through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, hoisting roof slab, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of high-strength concrete, with a design strength level of C20, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the embedded part through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the connector through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the connector through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C20, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: pouring foundation concrete, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, hoisting roof slab. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the connector through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, hoisting roof slab. To ensure structural stability and reliable connections, the embedded part is firmly connected to the connector through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of high-strength concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the connector through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the connector through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the connector through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, reserving lifting holes, installing bottom wall panels. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the anchoring element through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C50, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, installing bottom wall panels. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of high-strength concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the connector through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of high-strength concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: pouring foundation concrete, hoisting roof slab, reserving lifting holes. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Safety factor too low, violating regulatory standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of high-strength concrete, with a design strength level of C20, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Inaccurate description of material properties"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C30, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of galvanized reinforced concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the connector through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: pouring foundation concrete, installing bottom wall panels, reserving lifting holes. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of lightweight concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, reserving lifting holes. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the embedded part through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of lightweight concrete, with a design strength level of C30, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: installing bottom wall panels, pouring foundation concrete, hoisting roof slab. To ensure structural stability and reliable connections, the connector is firmly connected to the connector through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: hoisting roof slab, installing bottom wall panels, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the anchoring element through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall structural stability. The component is mainly composed of high-strength concrete, with a design strength level of C10, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: pouring foundation concrete, hoisting roof slab, reserving lifting holes. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the lifting hole through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect structural component name"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall economy. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C50, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: reserving lifting holes, pouring foundation concrete, installing bottom wall panels. To ensure structural stability and reliable connections, the connector is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "passage": "The present invention discloses an installation method for a prefabricated column used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, installing bottom wall panels. To ensure structural stability and reliable connections, the lifting hole is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Exaggerated description lacking technical justification"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "passage": "The present invention discloses an installation method for a prefabricated floor slab used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C10, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, installing bottom wall panels, pouring foundation concrete. To ensure structural stability and reliable connections, the connector is firmly connected to the lifting hole through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Redundant or unclear technical expression"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "passage": "The present invention discloses an installation method for a prefabricated staircase used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of lightweight concrete, with a design strength level of C20, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: installing bottom wall panels, hoisting roof slab, reserving lifting holes. To ensure structural stability and reliable connections, the embedded part is firmly connected to the embedded part through grouting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall construction efficiency. The component is mainly composed of high-strength concrete, with a design strength level of C50, to meet the technical requirements of fire protection requirements. The installation steps during construction sequentially include: reserving lifting holes, hoisting roof slab, pouring foundation concrete. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the anchoring element through welding, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Installation sequence violates construction standards"
+      },
+      {
+        "type": "semantic",
+        "description": "Incorrect use of technical terminology"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "passage": "The present invention discloses an installation method for a prefabricated beam used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of fiber-reinforced concrete, with a design strength level of C10, to meet the technical requirements of seismic design standards. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the anchoring element is firmly connected to the embedded part through dry connection, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Numerical contradiction or inconsistency"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Grammar errors causing ambiguity"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "passage": "The present invention discloses an installation method for a prefabricated wall panel used in prefabricated building construction, aiming to enhance overall construction speed. The component is mainly composed of lightweight concrete, with a design strength level of C30, to meet the technical requirements of high-rise building load requirements. The installation steps during construction sequentially include: hoisting roof slab, reserving lifting holes, pouring foundation concrete. To ensure structural stability and reliable connections, the embedded part is firmly connected to the connector through bolting, which helps enhance the overall cooperative performance among structural components. Furthermore, no additional formwork support is required during construction, thus saving construction time and labor costs, suitable for various complex site conditions.",
+    "errors": [
+      {
+        "type": "logic",
+        "description": "Incorrect step sequence violating construction logic"
+      },
+      {
+        "type": "semantic",
+        "description": "Mismatch between parameter level and application scenario"
+      },
+      {
+        "type": "expression",
+        "description": "Incomplete description or missing essential details"
+      }
+    ]
+  }
+]
